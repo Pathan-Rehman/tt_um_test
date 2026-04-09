@@ -1,0 +1,5 @@
+title: "Reactive Plasma"
+author: "Pathan-Rehman"
+description: "Audio-reactive plasma demo"
+clock_hz: 25175000
+language: "verilog"
